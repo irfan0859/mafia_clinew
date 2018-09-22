@@ -25,17 +25,17 @@ do local _ = {
     data = "bot/group.json"
   },
   sudo_users = {
-    202020202, --sudo ایدی شما
+    465511496, --sudo ایدی شما
     0,
     0
   },
 robot = {
-    010101010,--bot ایدی ربات
+    628379310,--bot ایدی ربات
     0
   }
 }
 return _
 end
 
---@mafia_cli
+--@bfcanal
 --https://github.com/mafia-007
