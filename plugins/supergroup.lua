@@ -665,7 +665,7 @@ return {
   },
   run = run
 }
---@mafia_cli
+--@bfcanal
 --https://github.com/mafia-007
 
 
