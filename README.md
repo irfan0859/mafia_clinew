@@ -1,8 +1,8 @@
 --------------------------------------
 ## mafia_bot
 
-- git clone https://github.com/mafia-007/mafia_cli
-- cd mafia_cli
+- git clone https://github.com/irfan0859/mafia_clinew.git
+- cd mafia_clinew
 - sh install
 - #edit config.lua, line [28 , 33]
 - ./launch.sh
@@ -13,7 +13,7 @@
 ---------------------------------------
 ---------------------------------------
 ## Error run bot
-- cd mafia_cli
+- cd mafia_clinew
 - killall -9 bash
 - screen ./launch.sh
 ---------------------------------------
