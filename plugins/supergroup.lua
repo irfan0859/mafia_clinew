@@ -547,7 +547,7 @@ pm = pm..'\n  <b>Lock</b> <code>➣</code> <b>Doc</b> <code>»</code> '..group[t
 pm = pm..'\n  <b>Lock</b> <code>➣</code> <b>Audio</b> <code>»</code> '..group[tostring(target)]['settings']['mute_audio']..''
 pm = pm..'\n  <b>Lock</b> <code>➣</code> <b>Gif</b> <code>»</code> '..group[tostring(target)]['settings']['mute_gif']..''
 --pm = '<code>→→→→→→→→→→→→</code>'
-pm = pm..'\n <code>→→→→→→→→→→→→</code> \n <b> mafia_cli </b>'
+pm = pm..'\n <code>→→→→→→→→→→→→</code> \n <b> @bfcanal </b>'
 
 tg.sendMessage(msg.chat_id_, 0, 1, pm, 1, 'html')
 end
@@ -666,7 +666,7 @@ return {
   run = run
 }
 --@bfcanal
---https://github.com/mafia-007
+
 
 
 
